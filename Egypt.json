@@ -1,0 +1,112 @@
+{
+  "محافظات": [
+    {
+      "name": "القاهرة",
+      "code": "Cairo"
+    },
+    {
+      "name": "الإسكندرية",
+      "code": "Alexandria"
+    },
+    {
+      "name": "الجيزة",
+      "code": "Giza"
+    },
+    {
+      "name": "القليوبية",
+      "code": "Qalyubia"
+    },
+    {
+      "name": "المنوفية",
+      "code": "Monufia"
+    },
+    {
+      "name": "الدقهلية",
+      "code": "Dakahlia"
+    },
+    {
+      "name": "الشرقية",
+      "code": "Sharqia"
+    },
+    {
+      "name": "الغربية",
+      "code": "Gharbia"
+    },
+    {
+      "name": "كفر الشيخ",
+      "code": "Kafr El Sheikh"
+    },
+    {
+      "name": "المنيا",
+      "code": "Minya"
+    },
+    {
+      "name": "الفيوم",
+      "code": "Fayoum"
+    },
+    {
+      "name": "بني سويف",
+      "code": "Beni Suef"
+    },
+    {
+      "name": "الأقصر",
+      "code": "Luxor"
+    },
+    {
+      "name": "أسوان",
+      "code": "Aswan"
+    },
+    {
+      "name": "سوهاج",
+      "code": "Sohag"
+    },
+    {
+      "name": "قنا",
+      "code": "Qena"
+    },
+    {
+      "name": "البحر الأحمر",
+      "code": "Red Sea"
+    },
+    {
+      "name": "الإسماعيلية",
+      "code": "Ismailia"
+    },
+    {
+      "name": "مطروح",
+      "code": "Matrouh"
+    },
+    {
+      "name": "دمياط",
+      "code": "Damietta"
+    },
+    {
+      "name": "بورسعيد",
+      "code": "Port Said"
+    },
+    {
+      "name": "السويس",
+      "code": "Suez"
+    },
+    {
+      "name": "شمال سيناء",
+      "code": "North Sinai"
+    },
+    {
+      "name": "جنوب سيناء",
+      "code": "South Sinai"
+    },
+    {
+      "name": "الوادي الجديد",
+      "code": "New Valley"
+    },
+    {
+      "name": "البحيرة",
+      "code": "Beheira"
+    },
+    {
+      "name": "مرسى مطروح",
+      "code": "Marsa Matruh"
+    }
+  ]
+}

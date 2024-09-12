@@ -1,0 +1,46 @@
+{
+  "cities": [
+    {
+      "name": "الدوحة",
+      "latitude": 25.2867,
+      "longitude": 51.5333,
+      "municipality": "بلدية الدوحة"
+    },
+    {
+      "name": "الريان",
+      "latitude": 25.2500,
+      "longitude": 51.4000,
+      "municipality": "بلدية الريان"
+    },
+    {
+      "name": "الخور",
+      "latitude": 25.6900,
+      "longitude": 51.5100,
+      "municipality": "بلدية الخور والظخيرة"
+    },
+    {
+      "name": "الشحانية",
+      "latitude": 25.3722,
+      "longitude": 51.2047,
+      "municipality": "بلدية الشحانية"
+    },
+    {
+      "name": "الوكرة",
+      "latitude": 25.1800,
+      "longitude": 51.6100,
+      "municipality": "بلدية الوكرة"
+    },
+    {
+      "name": "أم قرون",
+      "latitude": 25.2500,
+      "longitude": 51.3732,
+      "municipality": "بلدية الريان"
+    },
+    {
+      "name": "نعيجة",
+      "latitude": 25.2525,
+      "longitude": 51.5592,
+      "municipality": "بلدية الدوحة"
+    }
+  ]
+}
